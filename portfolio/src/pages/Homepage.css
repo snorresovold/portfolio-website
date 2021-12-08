@@ -1,0 +1,19 @@
+:root{
+    --red: #de0f10;
+    --dark-red: #612126;
+    --black: #141415;
+    --light-black: hsl(240, 2%, 16%);
+    --white: #d8d7d8;
+    --brown: #3d292b;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: var(--red);
+    font-size: 5rem;
+    justify-content: center;
+    align-items: center;
+}
